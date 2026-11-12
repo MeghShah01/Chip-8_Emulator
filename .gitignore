@@ -23,6 +23,9 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### ROMS ###
+/Roms/
+
 ### VS Code ###
 .vscode/
 
